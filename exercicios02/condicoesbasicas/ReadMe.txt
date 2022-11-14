@@ -1,4 +1,4 @@
-CONDIÇÕES BÁSICAS
+- CONDIÇÕES BÁSICAS -
 
 17) Escreva um programa que pergunte a velocidade de um carro. Caso ultrapasse
 80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba
